@@ -599,6 +599,19 @@
     },
     {
         "metadata": {
+            "name": "v2.0.4-5.5.153-iso"
+        },
+        "spec": {
+            "version": "v2.0.4-5.5.153",
+            "type": "iso",
+            "metadata": {
+                "uri": "registry.suse.com/suse/sle-micro-iso/5.5:2.0.4-5.5.153",
+                "displayName": "SLE Micro 5.5 ISO"
+            }
+        }
+    },
+    {
+        "metadata": {
             "name": "v2.0.4-5.5.20-iso"
         },
         "spec": {
